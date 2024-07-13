@@ -7,4 +7,4 @@ Data Scince
 - DBscan clustering
 
 Intelligence artificielle
-- Programme de reconnaissance facile pouvant détecter si un individu porte un masque ou non.
+- Programme de reconnaissance faciale pouvant détecter si un individu porte un masque ou non.
