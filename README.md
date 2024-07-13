@@ -6,3 +6,5 @@ Data Scince
 - Decision tree
 - DBscan clustering
 
+Intelligence artificielle
+- Programme de reconnaissance facile pouvant détecter si un individu porte un masque ou non.
